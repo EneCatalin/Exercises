@@ -1,0 +1,5 @@
+{
+  "f": ["testLogs1.log", "testLogs2.log"],
+  "l": ["error", "info"],
+  "s": "testing123"
+}
